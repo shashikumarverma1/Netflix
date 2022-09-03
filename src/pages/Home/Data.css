@@ -1,0 +1,39 @@
+.flex{
+    display: inline-block;
+    
+}
+.res{
+    color:red
+}
+.image{
+    width:150px;
+    height: 150px;
+}
+.image_align{
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    color:rgba(199, 244, 18, 0.922);
+    background-color: black;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    /* justify-content: center; */
+}
+.movies_heading{
+  /* display: flex; */
+  /* align-items: center; */
+  justify-content: center;
+  text-align: centers;
+  margin-left: 30px;
+  text-decoration: underline;
+  color:aliceblue
+  
+}
+.input_search_box{
+    margin-top: 10px;
+    height: 50px;
+    border: solid rgb(164, 161, 161);
+    border-radius: 10px;
+    width:350px;
+    margin-left: 10px;
+}
